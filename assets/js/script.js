@@ -18,7 +18,7 @@ const categories = {
     "brooches": 3,
     "wedding-pens": 3,
     "satin-ribbons": 1,
-    "incense-burners": 0,
+    "incense-burners": 5,
 
     "wedding-invitations": 9,
     "Wedding-fingerprint-frames": 23,
