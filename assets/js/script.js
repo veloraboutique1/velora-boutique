@@ -20,7 +20,7 @@ const categories = {
     "satin-ribbons": 1,
     "incense-burners": 0,
 
-    "wedding-invitations": 6,
+    "wedding-invitations": 9,
     "Wedding-fingerprint-frames": 23,
     "custom-event-signs": 2,
 
