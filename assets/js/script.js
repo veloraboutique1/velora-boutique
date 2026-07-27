@@ -1,35 +1,35 @@
 const categories = {
 
-    "bridal-trays": 0,
-    "bridal-mirrors": 0,
-    "bridal-sunglasses": 0,
-    "bridal-slippers": 0,
-    "parasols": 0,
-    "hand-fans": 0,
+    "bridal-trays": 20,
+    "bridal-mirrors": 17,
+    "bridal-sunglasses": 4,
+    "bridal-slippers": 2,
+    "parasols": 2,
+    "hand-fans": 17,
 
-    "flower-bouquets": 0,
-    "satin-bouquets": 0,
+    "flower-bouquets": 10,
+    "satin-bouquets": 9,
 
-    "embroidered-headbands": 0,
-    "embroidered-phone-cases": 0,
-    "embroidered-hair-brushes": 0,
+    "embroidered-headbands": 7,
+    "embroidered-phone-cases": 3,
+    "embroidered-hair-brushes": 2,
 
-    "wedding-handkerchiefs": 0,
-    "brooches": 0,
-    "wedding-pens": 0,
-    "satin-ribbons": 0,
+    "wedding-handkerchiefs": 11,
+    "brooches": 3,
+    "wedding-pens": 3,
+    "satin-ribbons": 1,
     "incense-burners": 0,
 
-    "wedding-invitations": 0,
-    "fingerprint-frames": 0,
-    "custom-event-signs": 0,
+    "wedding-invitations": 6,
+    "Wedding-fingerprint-frames": 23,
+    "custom-event-signs": 2,
 
-    "party-favors": 0,
-    "newborn-favors": 0,
-    "personalized-water-bottles": 0,
+    "party-favors": 10,
+    "newborn-Celebration-favors": 44,
+    "personalized-water-bottles": 9,
 
-    "graduation-caps": 0,
-    "graduation-sashes": 0
+    "graduation-caps": 7,
+    "graduation-sashes": 16
 
 };
 
